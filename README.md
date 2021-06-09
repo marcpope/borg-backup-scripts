@@ -1,2 +1,2 @@
 # borg-backup-scripts
-These are bash scripts I wrote for doing various tasks in borg, a linux backup utility.
+These are initial scripts that are intended to automate backing up from a centralized borg server. 
